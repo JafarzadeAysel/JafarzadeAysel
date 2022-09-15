@@ -3,15 +3,13 @@
 
 ## About me
 
-I'm Sagar Viradiya. A Google Developer Expert on Android. An Android Engineer at [DeliveryHero](https://www.deliveryhero.com/) and also Co-organizer of [GDG MAD](https://gdgmad.com/) (Mumbai). Community is :heart:. Code blooded animal, 1xEngineer :stuck_out_tongue: and :coffee: lover. 
-
-I ocassionally blog and tweet about android. Also open sourced few android related stuff.  
+I am Aysel from Azerbaijan. Currently I am data analyst
 
 
 ## Things I am passionate about
 
-- Android :robot:
-- Open source :octocat:
+-Data analysis
+-Model building
 
 ## Get in touch :coffee:
 
