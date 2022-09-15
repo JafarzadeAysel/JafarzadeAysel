@@ -15,9 +15,8 @@ I am Aysel from Azerbaijan. Currently I am data analyst
 
 - Linkedin :stuck_out_tongue: on [Linkedin](https://www.linkedin.com/in/jafarzadeaysel/).
 - Facebook [Facebook](https://www.facebook.com/ice.zade/)
-- And my porfolio (Recursion)[Portfolio](https://jafarzadeaysel.github.io/Aysel_Portfolio/).
+- And my porfolio [Portfolio](https://jafarzadeaysel.github.io/Aysel_Portfolio/).
 
-)
 <!--
 **JafarzadeAysel/JafarzadeAysel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
