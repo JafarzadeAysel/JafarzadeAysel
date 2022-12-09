@@ -1,6 +1,4 @@
 
-![]()
-
 ## About me
 
 I am Aysel from Azerbaijan. Currently I am data analyst
