@@ -7,6 +7,6 @@ I am Aysel from Azerbaijan. Currently I am a data analyst in banking sector. I r
 ## Skills: Python / SQL / Tableau / Excel
 
 
-[<img src='https://www.kindpng.com/picc/m/613-6133946_github-awesome-logo-svg-hd-png-download.png' alt='github' height='40'>](https://github.com/JafarzadeAysel)  [<img src='https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jafarzadeaysel/)  [<img src='https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg' alt='facebook' height='40'>](https://www.facebook.com/ice.zade)  [<img src='https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg' alt='kaggle' height='40'>](https://www.kaggle.com/ayseljafarzade)
+[<img src='https://e7.pngegg.com/pngimages/935/393/png-clipart-github-computer-icons-github-blue-logo.png' alt='github' height='40'>](https://github.com/JafarzadeAysel)  [<img src='https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jafarzadeaysel/)  [<img src='https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg' alt='facebook' height='40'>](https://www.facebook.com/ice.zade)  [<img src='https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg' alt='kaggle' height='40'>](https://www.kaggle.com/ayseljafarzade)
 
 ![Profile views](https://gpvc.arturio.dev/JafarzadeAysel)
