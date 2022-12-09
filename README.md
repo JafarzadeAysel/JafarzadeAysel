@@ -1,7 +1,7 @@
 
 ## About me
 
-I am Aysel from Azerbaijan. Currently I am a data analyst.
+I am Aysel from Azerbaijan. Currently I am a data analyst in banking sector. I really enjoy learning Data Science tools like Python, SQL, Tableau. I have enthusiasm for learning statistics deeply. I also enjoy learning new languages. On these days I try to learn Korean language.
 
 
 ## Things I am passionate about
@@ -14,18 +14,5 @@ I am Aysel from Azerbaijan. Currently I am a data analyst.
 - Linkedin :stuck_out_tongue: on [Linkedin](https://www.linkedin.com/in/jafarzadeaysel/).
 - Facebook [Facebook](https://www.facebook.com/ice.zade/)
 - And my porfolio [Portfolio](https://jafarzadeaysel.github.io/Aysel_Portfolio/).
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JafarzadeAysel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jafarzadeaysel/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ice.zade)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='40'>](https://www.kaggle.com/ayseljafarzade)  
 
-<!--
-**JafarzadeAysel/JafarzadeAysel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
