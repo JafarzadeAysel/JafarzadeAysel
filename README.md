@@ -1,7 +1,7 @@
 
 ## About me
 
-I am Aysel from Azerbaijan. Currently I am data analyst
+I am Aysel from Azerbaijan. Currently I am a data analyst.
 
 
 ## Things I am passionate about
