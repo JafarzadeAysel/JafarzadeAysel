@@ -1,5 +1,5 @@
 
-![](https://github.com/JafarzadeAysel/JafarzadeAysel/blob/908c16f4e719e14684a24e5a141febfce71678db/19687.jpg "Cars by regions")
+![]()
 
 ## About me
 
