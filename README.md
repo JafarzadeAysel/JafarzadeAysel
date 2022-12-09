@@ -1,5 +1,4 @@
 
-## About me
 # Hey there :wave:
 ![imag](https://github.com/JafarzadeAysel/JafarzadeAysel/blob/main/aYSEL%20jAFARZADE.png)
 
