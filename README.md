@@ -1,6 +1,5 @@
 
 # Hey there :wave:
-![imag](https://github.com/JafarzadeAysel/JafarzadeAysel/blob/main/aYSEL%20jAFARZADE.png)
 
 I am Aysel from Azerbaijan. Currently I am a data analyst in banking sector. I really enjoy learning Data Science tools like Python, SQL, Tableau. I have enthusiasm for learning statistics deeply. I also enjoy learning new languages. On these days I try to learn Korean language.
 
