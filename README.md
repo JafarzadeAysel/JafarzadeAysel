@@ -21,13 +21,13 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+    <img src="https://www.netgen.co.za/wp-content/uploads/2023/05/SQL-Database.png" alt="mysql" width="40" height="40"/>
   </a>
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDA8o-B1aL6Mxg8qvIBfVdFj7g6HLpEEWZ4g&s" alt="tableau" width="40" height="40"/>
+    <img src="https://cdn2.iconfinder.com/data/icons/mixd/512/3_tableau-512.png" alt="tableau" width="40" height="40"/>
   </a>
   <a href="https://www.ataccama.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.ataccama.com/sites/default/files/2021-03/Ataccama-logo.svg" alt="ataccama" width="40" height="40"/>
+    <img src="https://cdn.freelogovectors.net/wp-content/uploads/2022/03/ataccama_logo_freelogovectors.net_.png" alt="ataccama" width="40" height="40"/>
   </a>
   <a href="https://bitbucket.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Bitbucket_logo_2022.svg" alt="bitbucket" width="40" height="40"/>
