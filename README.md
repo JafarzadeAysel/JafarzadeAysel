@@ -21,28 +21,20 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.netgen.co.za/wp-content/uploads/2023/05/SQL-Database.png" alt="mysql" width="40" height="40"/>
+    <img src="https://www.netgen.co.za/wp-content/uploads/2023/05/SQL-Database.png" alt="sql" width="40" height="40"/>
   </a>
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn2.iconfinder.com/data/icons/mixd/512/3_tableau-512.png" alt="tableau" width="40" height="40"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDA8o-B1aL6Mxg8qvIBfVdFj7g6HLpEEWZ4g&s" alt="tableau" width="60" height="40"/>
   </a>
-  <a href="https://www.ataccama.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.freelogovectors.net/wp-content/uploads/2022/03/ataccama_logo_freelogovectors.net_.png" alt="ataccama" width="40" height="40"/>
+ 
+   <a href="https://bitbucket.org/" target="_blank" rel="noreferrer">
+    <img src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png" alt="bitbucket" width="70" height="40"/>
+  </a>
+   <a href="https://www.ataccama.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.freelogovectors.net/wp-content/uploads/2022/03/ataccama_logo_freelogovectors.net_.png" alt="ataccama" width="60" height="40"/>
   </a>
   <a href="https://bitbucket.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Bitbucket_logo_2022.svg" alt="bitbucket" width="40" height="40"/>
-  </a>
-  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jira/jira-icon.svg" alt="jira" width="40" height="40"/>
-  </a>
-  <a href="https://zoom.us/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Zoom_2020_logo.svg" alt="zoom" width="40" height="40"/>
-  </a>
-  <a href="https://slack.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Slack_icon_2019.svg" alt="slack" width="40" height="40"/>
-  </a>
-  <a href="https://trello.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Trello_logo.svg" alt="trello" width="40" height="40"/>
+    <img src="https://s3.amazonaws.com/cmscritic.mediasite.org/assets/products/bitbucket/logo-743959029541.png?v=1685911262448" alt="bitbucket" width="40" height="40"/>
   </a>
 </p>
 
