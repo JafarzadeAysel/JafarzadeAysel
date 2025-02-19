@@ -20,7 +20,32 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="tableau" width="40" height="40"/>
+  </a>
+  <a href="https://www.ataccama.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.ataccama.com/sites/default/files/2021-03/Ataccama-logo.svg" alt="ataccama" width="40" height="40"/>
+  </a>
+  <a href="https://bitbucket.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Bitbucket_logo_2022.svg" alt="bitbucket" width="40" height="40"/>
+  </a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/jira/jira-icon.svg" alt="jira" width="40" height="40"/>
+  </a>
+  <a href="https://zoom.us/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Zoom_2020_logo.svg" alt="zoom" width="40" height="40"/>
+  </a>
+  <a href="https://slack.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Slack_icon_2019.svg" alt="slack" width="40" height="40"/>
+  </a>
+  <a href="https://trello.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Trello_logo.svg" alt="trello" width="40" height="40"/>
+  </a>
 </p>
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JafarzadeAysel&show_icons=true&locale=en&layout=compact" alt="JafarzadeAysel" /></p>
