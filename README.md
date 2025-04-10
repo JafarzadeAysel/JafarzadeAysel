@@ -27,7 +27,7 @@
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDA8o-B1aL6Mxg8qvIBfVdFj7g6HLpEEWZ4g&s" alt="tableau" width="60" height="40"/>
   </a>
  
-   <a href="https://https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer">
+   <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer">
     <img src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png" alt="bitbucket" width="70" height="40"/>
   </a>
    <a href="https://www.ataccama.com/" target="_blank" rel="noreferrer">
